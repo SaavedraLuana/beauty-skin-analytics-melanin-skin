@@ -25,4 +25,3 @@ Real personal skincare routine including:
 - SQL
 - GitHub
 - Data analysis
-- skin_type_reaction
