@@ -1,5 +1,8 @@
 observation_id,product_id,season,skin_area,observation,rating
-1,1,Winter,Face,"Improved skin comfort during dry winter months.",5
-2,2,Summer,Underarms,"Regular use coincided with smoother skin texture and reduced odor.",5
-3,3,Summer,Face,"Preferred daily sunscreen during warmer months.",5
-4,4,Summer,Face,"Helped maintain skin comfort and hydration.",5
+1,1,All Year,Face,"Helped brighten the appearance of my skin over time.",5
+2,2,Winter,Face,"Preferred during winter because it improved skin comfort in dry weather.",5
+3,3,Winter,Face,"Helped maintain skin comfort when my skin felt dry.",5
+4,4,Summer,Underarms,"Regular use coincided with smoother skin texture and reduced odor.",5
+5,5,All Year,Face,"Included in my nighttime routine for skin renewal.",5
+6,6,Summer,Face,"Preferred sunscreen during warmer months.",5
+7,7,Summer,Face,"Helped keep my skin feeling calm and hydrated.",5
