@@ -1,0 +1,8 @@
+purchase_id,product_id,store,price_eur,currency
+1,1,Primor,10,EUR
+2,2,Primor,8,EUR
+3,3,Druni,14,EUR
+4,4,Primaprix,5,EUR
+5,5,Primor,10,EUR
+6,6,Primor,15,EUR
+7,7,YesStyle,13,EUR
