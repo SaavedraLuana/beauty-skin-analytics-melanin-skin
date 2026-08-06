@@ -6,3 +6,5 @@ matplotlib
 seaborn
 jupyterlab
 plotly
+pillow
+nbconvert
