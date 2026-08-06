@@ -3,15 +3,15 @@
 These are personal observations from testing two products on melanin-rich skin. This is qualitative, not clinical data. Results reflect my experience and may vary for others.
 
 ## Mixa Cream (Niacinamide)
-- Product: Mixa cream containing niacinamide (check label for concentration).
-- Usage: applied twice daily after cleansing for X weeks (please replace X with number of weeks used).
+- Product: Mixa cream containing niacinamide (9%) with shea butter and vitamin C (check label for full ingredient list).
+- Usage: applied twice daily after cleansing for one month.
 - Observations:
-  - Skin tone: noticed mild evening/brightening of hyperpigmentation over the test period.
+  - Skin tone: noticed mild-to-moderate evening/brightening of hyperpigmentation over the test period; improvement was noticeable after about 3–4 weeks.
   - Texture: slight improvement in skin smoothness and reduced rough patches.
   - Tolerability: no burning or visible irritation; suitable for sensitive/melanin-rich skin in my case.
 - Notes:
   - Effects took several weeks to appear; consistent use recommended.
-  - If you know the exact niacinamide % and formulation (serum vs cream), add it here for clarity.
+  - Formulation: cream (contains emollients like shea butter) — may be more moisturizing than a serum; patch-test if you have very oily or acne-prone skin.
 
 ## Eucerin Oil Control SPF 50 (oil-free)
 - Product: Eucerin Oil Control (oil-free) SPF 50 (broad-spectrum).
@@ -32,4 +32,4 @@ These are personal observations from testing two products on melanin-rich skin. 
 
 ---
 
-Notes: replace the placeholder "X weeks" with the actual testing duration, and add concentrations or photos if you want more detail.
+Notes: replaced the placeholder "X weeks" with the actual testing duration (one month) and added concentration and key ingredients for the Mixa cream; add photos or more details if you want more detail.
