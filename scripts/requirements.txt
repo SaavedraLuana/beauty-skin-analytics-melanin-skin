@@ -5,3 +5,4 @@ duckdb
 matplotlib
 seaborn
 jupyterlab
+plotly
