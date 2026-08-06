@@ -1,6 +1,6 @@
 # Skin Care Data Lab
 
-This project analyzes a personal skincare routine using SQL and Python data analysis. It explores product performance, irritation patterns, and skin outcomes for melanin-rich skin through exploratory data analysis.
+This project analyzes a personal skincare routine using SQL and Python data analysis. It explores product performance, irritation patterns, and skin outcomes for melanin-rich skin through exploratory analysis and reproducible notebooks.
 
 ## What's included now
 - **notebooks/analysis.ipynb** — Jupyter notebook with pandas + DuckDB examples and visualizations
@@ -59,10 +59,20 @@ duckdb -c "SELECT product, AVG(hydration) FROM read_csv_auto('data/skincare_log.
 - **Texture + hydration correlation** — Do hydrating products also improve skin texture?
 
 ## Notes and next steps
+
 - Expand dataset: add more historical rows across seasons for robust trend detection.
 - Add delayed irritation tracking: include a `next_day_irritation` column to catch reactions that emerge 24 hours later (often critical for sensitive skin).
 - Visualizations: saved plots in `images/` directory for quick reference.
 - Automation: consider adding a GitHub Action to run notebook checks on push or generate fresh reports on schedule.
+
+## Products tested
+Short, human-friendly records of products tested and a small CSV for analysis are available:
+- [product_results.md](product_results.md) — narrative notes and observations (human-readable).
+- [data/product_results.csv](data/product_results.csv) — structured product rows for use in the notebooks and DuckDB analysis.
+
+One-line summaries
+- Mixa Cream — 9% niacinamide; cream with shea butter and vitamin C; 1 month use — mild-to-moderate evening of hyperpigmentation and improved texture; no visible irritation.
+- Eucerin Oil Control SPF 50 — oil-free sunscreen, SPF 50; used each morning — mattifying finish, sits well under makeup, negligible white-cast on medium/darker complexion; non-comedogenic for the tester.
 
 ## Technologies
 - **Pandas** — data manipulation and exploration
